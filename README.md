@@ -1,8 +1,8 @@
 # shazi-js-compiler
-
-![shazi classic with tagline](https://user-images.githubusercontent.com/29815204/216791449-9ed66c18-e000-4d83-a6a5-db25d26d9c56.png)
-![Shazi (2)](https://user-images.githubusercontent.com/29815204/216790673-d6cb58bf-4be3-45f2-b7df-d233ad7f1363.gif)
-
+<div style="display:flex;">
+<img src="https://user-images.githubusercontent.com/29815204/216791449-9ed66c18-e000-4d83-a6a5-db25d26d9c56.png" />
+<img src="https://user-images.githubusercontent.com/29815204/216790673-d6cb58bf-4be3-45f2-b7df-d233ad7f1363.gif" />
+</div>
 WITH JAVASCRIPT'S MIGHT, THE WEB DOTH SHINE BRIGHT, EACH LINE A STEP, TO ENDLESS DELIGHT. THATS THE REASON YOU HAVE TO USE SHAZI JS COMPILER MODULE, TO COMPILE JAVASCRIPT'S CODE
 
 # shazi-js-compiler

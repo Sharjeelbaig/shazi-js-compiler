@@ -1,8 +1,8 @@
 # shazi-js-compiler
-<div style="display:flex;">
-<img src="https://user-images.githubusercontent.com/29815204/216791449-9ed66c18-e000-4d83-a6a5-db25d26d9c56.png" />
-<img src="https://user-images.githubusercontent.com/29815204/216790673-d6cb58bf-4be3-45f2-b7df-d233ad7f1363.gif" />
-</div>
+| Shazi | Shazi js compiler |
+| --- | --- |
+| ![](https://user-images.githubusercontent.com/29815204/216791449-9ed66c18-e000-4d83-a6a5-db25d26d9c56.png) | ![](https://user-images.githubusercontent.com/29815204/216790673-d6cb58bf-4be3-45f2-b7df-d233ad7f1363.gif) |
+
 WITH JAVASCRIPT'S MIGHT, THE WEB DOTH SHINE BRIGHT, EACH LINE A STEP, TO ENDLESS DELIGHT. THATS THE REASON YOU HAVE TO USE SHAZI JS COMPILER MODULE, TO COMPILE JAVASCRIPT'S CODE
 
 # shazi-js-compiler
@@ -45,5 +45,11 @@ In case of an error during evaluation, the error message will be added to the ou
 
 ## Conclusion
 shazi-js-compiler is a simple and flexible utility that can be used to evaluate and debug JavaScript code. By providing a convenient way to view the outputs of code evaluation, it can save time and effort during development. Try it out and see for yourself!
+***
+# By Sharjeel Baig
+| Hire Me |
+| --- |
+| <p align="center"><img src="https://user-images.githubusercontent.com/29815204/216791900-bb61bfc9-778d-4922-963d-8cbce5245bc4.jpg" height="150" /></p>|
+|A highly motivated and dedicated individual seeking opportunities to showcase my skills and make a positive impact.|
 
 

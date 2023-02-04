@@ -52,4 +52,10 @@ shazi-js-compiler is a simple and flexible utility that can be used to evaluate 
 | <p align="center"><img src="https://user-images.githubusercontent.com/29815204/216791900-bb61bfc9-778d-4922-963d-8cbce5245bc4.jpg" height="150" /></p>|
 |A highly motivated and dedicated individual seeking opportunities to showcase my skills and make a positive impact.|
 
+| Social Media | Icon | Link |
+| --- | --- | --- |
+| GitHub | <img src="https://user-images.githubusercontent.com/29815204/216792812-7e5d388a-036e-43ae-8043-709a3df008a4.svg" height="50" /> | https://github.com/Sharjeelbaig |
+| LinkedIn | <img src="https://user-images.githubusercontent.com/29815204/216792924-06db8bf3-7fdd-45fe-bbed-a0a3b3697a45.png" height="50" /> | https://www.linkedin.com/in/sharjeel-baig-250858222/ |
+| Facebook | <img src="https://user-images.githubusercontent.com/29815204/216792990-ae5b4e93-20d3-49e7-a753-cf42e16f97ed.png" height="50" /> | https://www.facebook.com/sharjeel.baig.58/ |
+
 

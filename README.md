@@ -19,7 +19,7 @@ npm install shazi-js-compiler
 To use shazi-js-compiler, you first need to import it in your project:
 
 ```javascript
-import compile from 'shazi-js-compiler';
+import { compileJs } from 'shazi-js-compiler';
 ```
 
 The compile function takes two arguments: input and setOutputs. input is a string that represents the code to be executed and evaluated, and 
@@ -30,7 +30,7 @@ Here is an example of using the compile function:
 ```javascript
 const [outputs, setOutputs] = useState([]);
 
-compile('console.log(1 + 2)', setOutputs);
+compileJs('console.log(1 + 2)', setOutputs);
 
 console.log(outputs);
 // outputs: [3]
@@ -46,6 +46,11 @@ In case of an error during evaluation, the error message will be added to the ou
 ## Conclusion
 shazi-js-compiler is a simple and flexible utility that can be used to evaluate and debug JavaScript code. By providing a convenient way to view the outputs of code evaluation, it can save time and effort during development. Try it out and see for yourself!
 ***
+
+## Shazi Ide
+Shazi Ide is an online javascript compiler that uses this library to work!
+check out: [visit shazi ide](https://shazi-ide.vercel.app/)
+
 # By Sharjeel Baig
 | Hire Me |
 | --- |

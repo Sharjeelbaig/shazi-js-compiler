@@ -23,7 +23,7 @@ npm install shazi-js-compiler
 To use shazi-js-compiler, you first need to import it in your project:
 
 ```javascript
-import compile from 'shazi-js-compiler';
+import { compileJs } from 'shazi-js-compiler';
 ```
 
 The compile function takes two arguments: input and setOutputs. input is a string that represents the code to be executed and evaluated, and 
@@ -34,13 +34,13 @@ Here is an example of using the compile function:
 ```javascript
 const [outputs, setOutputs] = useState([]);
 
-compile('console.log(1 + 2)', setOutputs);
+compileJs('console.log(1 + 2)', setOutputs);
 
 console.log(outputs);
 // outputs: [3]
 ```
 
-The compile function works by temporarily replacing the console.log function with a custom function that adds the outputs to an array. The original console.log function is then restored after the evaluation is complete.
+The compileJs function works by temporarily replacing the console.log function with a custom function that adds the outputs to an array. The original console.log function is then restored after the evaluation is complete.
 
 #### "WARNING"
 This module uses eval function of javascript, eval function is a powerful and dangerous tool in JavaScript. It allows for arbitrary code execution, which can lead to security vulnerabilities and unpredictable behavior in your code.

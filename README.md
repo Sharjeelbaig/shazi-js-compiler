@@ -6,6 +6,7 @@
 WITH JAVASCRIPT'S MIGHT, THE WEB DOTH SHINE BRIGHT, EACH LINE A STEP, TO ENDLESS DELIGHT. THATS THE REASON YOU HAVE TO USE SHAZI JS COMPILER MODULE, TO COMPILE JAVASCRIPT'S CODE
 
 check out docs at: [ docs-shazi-js-compiler.vercel.app ](https://docs-shazi-js-compiler.vercel.app)
+live javascript ide made with shazi js coompiler: [shazi-ide.vercel.app/](https://shazi-ide.vercel.app/)
 
 # shazi-js-compiler
 shazi-js-compiler is a JavaScript utility module that provides a convenient way to execute and evaluate code and view its output in the console. It can be useful for debugging and testing purposes.

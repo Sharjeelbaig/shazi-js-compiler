@@ -12,15 +12,18 @@ const compile = (input, setOutputs) => {
   const compileSafe = (input, setOutputs) => {
     setOutputs([]);
     try {
+      let document = undefined;
       const originalConsoleLog = console.log;
       console.log = (...args) => setOutputs(prevOutputs => [...prevOutputs, args.join(" ")]);
-      const parsedInput = JSON.parse(input);
-      parsedInput();
+      const code = `(function() {
+        var document;
+        ${input};
+      })();`;
+      typeof eval === "function" && eval(code);
       console.log = originalConsoleLog;
     } catch (error) {
       setOutputs(prevOutputs => [error.message]);
     }
   };
-  
   module.exports = {compile,compileSafe};
   

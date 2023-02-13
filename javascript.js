@@ -22,6 +22,5 @@ const compile = (input, setOutputs) => {
     }
   };
   
-  module.exports = compileSafe;
-  module.exports = compile;
+  module.exports = {compile,compileSafe};
   

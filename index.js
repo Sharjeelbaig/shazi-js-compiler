@@ -1,5 +1,5 @@
-const compileJs = require('./javascript');
-const compileJsSafely = require('./javascript');
+const  compileJs = require('./javascript').compile;
+const compileJsSafely = require('./javascript').compileSafe;
 
 module.exports = {
   compileJs,
